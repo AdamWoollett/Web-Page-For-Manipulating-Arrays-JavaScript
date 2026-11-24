@@ -18,8 +18,10 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 - CSS3
 
 ## Project Structure
+```
 Web-Page-For-Manipulating-Arrays-JavaScript/<br>
 ├─ README.md<br>
 ├─ index.html<br>
 ├─ script.js<br>
 └─ style.css<br>
+```
