@@ -10,6 +10,7 @@ When a user adds elements to the array, they are displayed at the top of the pag
 "Splice values into the array:" allows a user to both add and remove elements at specific points in the array using the splice() method. This demonstrates the full range by which an array can be manipulated by a user with one function call.<br>
 "Remove specific array values:" allows a user to delete specific items in the array using the splice() method. This demonstrates that the splice() method can work without needing to specify any elements to be added to the array.<br>
 "Clear array after a certain position:" allows a user to use the splice() method to delete multiple elements in the array after a specified position. This demonstrates the simplest usage of the splice() method.<br>
+A preview of what this project looks like when deployed can be viewed on Vercel at this link: https://web-page-for-manipulating-arrays-ja.vercel.app/
 
 ## Tech Stack
 - JavaScript
