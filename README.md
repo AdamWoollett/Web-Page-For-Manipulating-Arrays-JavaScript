@@ -21,7 +21,7 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 ```
 Web-Page-For-Manipulating-Arrays-JavaScript/
 ├─ README.md
-├─ index.html
-├─ script.js
-└─ style.css
+├─ index.html          # Landing page.
+├─ script.js           # File containing the JavaScript for the page.
+└─ style.css           # Page styling.
 ```
